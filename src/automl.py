@@ -1,3 +1,16 @@
+'''
+GNU GENERAL PUBLIC LICENSE
+Version 1, Dec 2018
+
+Copyright (C) 2018, Meta_Learners
+xiongz17@mails.tsinghua.edu.cn
+jiangjy17@mails.tsinghua.edu.cn
+zhangwenpeng0@gmail.com
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+'''
+
 import lightgbm as lgb
 import numpy as np
 import time
